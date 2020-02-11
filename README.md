@@ -37,12 +37,12 @@ Asi que como el conjunto de datos de destino es grande y diferente del conjunto 
 
 Antes que nada asegúrese que tiene instaladas las librerías en las versiones correctas:
 
-python                    3.6.9
-keras-gpu                 2.2.4
-numpy                     1.17.3
-opencv                    3.4.2
-scipy                     1.3.1
-tensorflow                1.14.0
+* python                    3.6.9
+* keras-gpu                 2.2.4
+* numpy                     1.17.3
+* opencv                    3.4.2
+* scipy                     1.3.1
+* tensorflow                1.14.0
 
 Una de las cosas que más me da escozor en un tutorial, es cuando se toman directamente datos de paquetes como keras, por ejemplo cifar10. El problema de empezar un tutorial asi es que  alguien que está aprendiendo necesita saber cómo diablos proceso mis datos para ser integrados a la red neuronal!!!
 Así que eso es lo que vamos a hacer aquí. Vamos a crear dos directorios para colocar en ellos, una muestra de imágenes normal y con neumonía:
