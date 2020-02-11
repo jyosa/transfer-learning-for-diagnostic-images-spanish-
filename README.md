@@ -223,6 +223,9 @@ Actual: NORMAL              401                 4
 
 ![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/Permormance_1.png)
 
+![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/results_1.png)
+
+
 Sin una optimización de hiperparametros se obtiene un sorprendente 96% de precisión.
 
 
