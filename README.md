@@ -221,6 +221,9 @@ Actual: NORMAL              401                 4
         PNEUMONIA            32                418
 ```
 
+
+
+
 Sin una optimización de hiperparametros se obtiene un sorprendente 96% de precisión.
 
 
