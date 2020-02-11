@@ -1,4 +1,4 @@
-# transferencia de aprendizaje para clasificación de imágenes diagnósticas
+# Aprendizaje por transferencia para clasificación de imágenes diagnósticas
 
 Como este es un tutorial, no pretende dar conceptos avanzados sobre el aprendizaje por transferencia, ni tampoco sobre redes neuronales profundas, o redes neuronales convolucionales, pero puede tomar los cursos gratuitos de EDX, o consultar las siguiente páginas: http://cs231n.github.io/transfer-learning/ , https://medium.com/analytics-vidhya/transfer-learning-with-convolutional-neural-networks-e9c513d41506 , https://www.sciencedirect.com/science/article/abs/pii/S0031320319303516 .
 
