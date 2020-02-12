@@ -21,6 +21,8 @@ Los datos los vamos a obtener en el siguiente link: https://data.mendeley.com/da
 
 El archivo trae  dos directorios: test y train, en el directorio train se encuentran alrededor de 5000 imágenes de tórax resueltas por rayos X, de personas normales y personas con neumonía.
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 Como puede observar de las imágenes anteriores, nuestra red neuronal tiene que aprender a diferenciar entre una imagen de rayos X normal y una con neumonía.
 
 Hay muchas formas de trabajar con imágenes y hay cientos de tutoriales en la web con múltiples formas de procesar los píxeles de una imagen, asi que sientase libre de explorar otras formas, a lo mejor obtienen mejores resultados.
