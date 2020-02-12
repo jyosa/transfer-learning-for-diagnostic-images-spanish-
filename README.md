@@ -50,6 +50,8 @@ Antes que nada asegúrese que tiene instaladas las librerías en las versiones c
 * scipy                     1.3.1
 * tensorflow                1.14.0
 
+Para hacer la evaluación del modelo es necesario la siguiente librería;  [model_evaluation_utils.py](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch05_Building_Tuning_and_Deploying_Models/model_evaluation_utils.py), coloquelo en el directorio maestro.
+
 Una de las cosas que más me da escozor en un tutorial, es cuando se toman directamente datos de paquetes como keras, por ejemplo cifar10. El problema de empezar un tutorial asi es que  alguien que está aprendiendo necesita saber cómo diablos proceso mis datos para ser integrados a la red neuronal!!!
 Así que eso es lo que vamos a hacer aquí. Vamos a crear dos directorios para colocar en ellos, una muestra de imágenes normal y con neumonía:
 
