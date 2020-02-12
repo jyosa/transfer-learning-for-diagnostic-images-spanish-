@@ -26,7 +26,7 @@ El archivo trae  dos directorios: test y train, en el directorio train se encuen
 
 Persona normal
 
-![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/NORMAL-1.jpeg)
+![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/PNEUMONIA-1.jpeg)
 
 Persona con neumonía
 
