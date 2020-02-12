@@ -125,6 +125,9 @@ $ python prepare_pict.py
 ```
 Si hace un recorrido por las imágenes transformadas, se va a dar cuenta que hemos aplicado filtros de contraste y brillo.
 
+
+![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/PNEUMONIA-1.jpeg)
+
 ## Generar etiquetas
 
 Es necesario generar las etiquetas (NORMAL, PNEUMONIA) para entrenar nuestra red neuronal, para tal fin vamos a crear un archivo tipo csv, para que sea más fácil integrar las etiquetas con las imágenes. Para tal fin hay que correr el script llamado get_labels.py, hay que editarlo con el path donde ha colocado el directorio clasificacion y el path donde quiere guardar el archivo labels.csv
