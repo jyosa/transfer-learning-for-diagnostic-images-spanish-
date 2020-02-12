@@ -130,7 +130,7 @@ Si hace un recorrido por las imágenes transformadas, se va a dar cuenta que hem
 
 Sin filtros
 
-![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/person1_bacteria_1.jpeg)
+![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/PNEUMONIA-1.jpeg)
 
 Con filtros
 
