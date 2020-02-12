@@ -21,7 +21,10 @@ Los datos los vamos a obtener en el siguiente link: https://data.mendeley.com/da
 
 El archivo trae  dos directorios: test y train, en el directorio train se encuentran alrededor de 5000 imágenes de tórax resueltas por rayos X, de personas normales y personas con neumonía.
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/NORMAL-1.jpeg)
+Persona normal
+
 
 Como puede observar de las imágenes anteriores, nuestra red neuronal tiene que aprender a diferenciar entre una imagen de rayos X normal y una con neumonía.
 
