@@ -14,10 +14,7 @@ La Fundación Neumológica Colombiana reveló que 920.136 menores de edad fallec
 La neumonía puede ser difícil de diagnosticar debido a que puede parecer un resfriado o un cuadro gripal. De hecho muchas personas no se dan cuenta que es más grave, hasta que dura más que un resfriado o gripe común.
 Una de las pruebas para diagnosticar la neumonía es por medio de una radiografía de tórax. La radiografía de tórax es una prueba indolora que obtiene imágenes de las estructuras internas del tórax, como el corazón, los pulmones y los vasos sanguíneos. Una radiografía del pecho es la mejor prueba para el diagnóstico de neumonía junto a la clínica. Sin embargo, esta prueba no le dirá a su médico qué tipo de germen está causando la neumonía. 
 
-De hecho el proceso puede durar varias horas hasta que un especialista neumólogo revise los rayos X, pero que tal si un sistema puede diagnósticar si una persona, especialmente 
-
-
-niños puede tener neumonía bacteriana o viral, y darle prioridad para que el neumólogo tenga prioridad sobre este paciente?
+De hecho el proceso puede durar varias horas hasta que un especialista neumólogo revise los rayos X, pero que tal si un sistema puede diagnósticar si una persona, especialmente niños puede tener neumonía bacteriana o viral, y darle prioridad para que el neumólogo tenga prioridad sobre este paciente?
 Pues bien es lo que vamos a intentar hacer aquí.
 
 Los datos los vamos a obtener en el siguiente link: https://data.mendeley.com/datasets/rscbjbr9sj/2/files/f12eaf6d-6023-432f-acc9-80c9d7393433.
