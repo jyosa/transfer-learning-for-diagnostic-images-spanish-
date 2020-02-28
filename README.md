@@ -1,4 +1,4 @@
-# Aprendizaje por transferencia para clasificación de imágenes diagnósticas
+# Aprendizaje por transferencia para clasificación de imágenes diagnósticas (TensorFlow 2)
 
 Como este es un tutorial, no pretende dar conceptos avanzados sobre el aprendizaje por transferencia, ni tampoco sobre redes neuronales profundas, o redes neuronales convolucionales, pero puede tomar los cursos gratuitos de EDX, o consultar las siguiente páginas: http://cs231n.github.io/transfer-learning/ , https://medium.com/analytics-vidhya/transfer-learning-with-convolutional-neural-networks-e9c513d41506 , https://www.sciencedirect.com/science/article/abs/pii/S0031320319303516 .
 
@@ -41,9 +41,17 @@ Asi que como el conjunto de datos de destino es grande y diferente del conjunto 
 
 ## Preparando imágenes
 
-Antes que nada, cabe resaltar que los calculos para entrenamiento y validación se van a realizar en una GPU NVIDIA GeForce GTX 1080. Para hacer las cosas fáciles instale la última versión de [Conda y Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) y Miniconda. A continuación vamos a crear un ambiente llamado tf2-gpu, para poder installar Tensorflow 2 en su versión de GPU
+Antes que nada, cabe resaltar que los calculos para entrenamiento y validación se van a realizar en una GPU NVIDIA GeForce GTX 1080. Para hacer las cosas fáciles instale la última versión de [Conda y Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/). A continuación vamos a crear un ambiente llamado tf2-gpu, con todas las librerias necesarias para correr los scripts en python
+
+```
+$ conda env create -f tranf_learning.yml
+```
+y active el nuevo ambiente:
 
 
+```
+$ conda activate tf2-gpu
+```
 
 
 Para hacer la evaluación del modelo es necesario la siguiente librería;  [model_evaluation_utils.py](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch05_Building_Tuning_and_Deploying_Models/model_evaluation_utils.py), coloquelo en el directorio maestro.
