@@ -248,7 +248,9 @@ Actual: NORMAL              401                 4
 ![alt text](https://github.com/jyosa/transfer-learning-for-diagnostic-images-spanish-/blob/master/results_2.png)
 
 
-Sin una optimización de hiperparametros se obtiene un sorprendente 96% de precisión.
+Sin una optimización de hiperparametros se obtiene un sorprendente 96% de precisión. Lo que puede hacer ahora es jugar con las capas que se han anexado fuera de la arquitectura de inception V3 y cambiar de optimizador, en las lines 132 a 134 del script binario_new.py, encontrá diferentes optimizadores que puede usar, además puede configurar valores óptimos de lerning rate y el momentumpara SGD, esto mejorará el modelo incluso llegando a un 99.7%.
+
+Si tiene dudas no dude en escribar a juvenal.yosa@unisimonbolivar.edu.co
 
 
 
