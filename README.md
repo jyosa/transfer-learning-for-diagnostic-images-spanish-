@@ -41,14 +41,10 @@ Asi que como el conjunto de datos de destino es grande y diferente del conjunto 
 
 ## Preparando imágenes
 
-Antes que nada asegúrese que tiene instaladas las librerías en las versiones correctas:
+Antes que nada, cabe resaltar que los calculos para entrenamiento y validación se van a realizar en una GPU NVIDIA GeForce GTX 1080. Para hacer las cosas fáciles instale la última versión de [Conda y Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) y Miniconda. A continuación vamos a crear un ambiente llamado tf2-gpu, para poder installar Tensorflow 2 en su versión de GPU
 
-* python                    3.6.9
-* keras-gpu                 2.2.4
-* numpy                     1.17.3
-* opencv                    3.4.2
-* scipy                     1.3.1
-* tensorflow                1.14.0
+
+
 
 Para hacer la evaluación del modelo es necesario la siguiente librería;  [model_evaluation_utils.py](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/notebooks/Ch05_Building_Tuning_and_Deploying_Models/model_evaluation_utils.py), coloquelo en el directorio maestro.
 
