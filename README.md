@@ -199,12 +199,10 @@ cargar el conjunto de datos y visualizar datos de muestra.
 Observar cómo se ven las etiquetas del conjunto de datos para tener una idea de todas la posible etiquetas.
 Lo que hacemos a continuación es agregar la ruta de imagen exacta para cada imagen presente en el disco. Esto nos ayudará a localizar y cargar fácilmente las imágenes durante el entrenamiento del modelo.
 Preparar conjuntos de datos de entrenamiento, prueba y validación.
-convertir las etiquetas de clase de texto en etiquetas codificadas one-hot
-Data augmentation: La idea aquí es que, cuando se dispone de un número de imágenes relativamente pequeño, podemos aumentar el número modificando las imágenes originales (haciendo zoom, escalado, flip horizontal, etc).
+convertir las etiquetas de clase de texto en etiquetas codificadas one-hot, y posterior mente realizar "data augmentation" La idea aquí es que, cuando se dispone de un número de imágenes relativamente pequeño, podemos aumentar el número modificando las imágenes originales (haciendo zoom, escalado, flip horizontal, etc).
 Transferir aprendizaje con el modelo Inception V3 de Google.
 
-Una vez finaliza el ciclo de entrenamiento se guardan dos archivos en el directorio model (json y h5), esto es importante si quiere que el modelo final corra en algún tipo de aplicación y el deploy sea má rápido. 
-Y último paso se hace una validación del modelo.
+Una vez finaliza el ciclo de entrenamiento se guardan dos archivos en el directorio model (json y h5), esto es importante si quiere que el modelo final corra en algún tipo de aplicación y el deploy sea más rápido. Y como último paso se hace una validación del modelo.
 
 
 Finalmente es hora de correr todo el script binary.py:
