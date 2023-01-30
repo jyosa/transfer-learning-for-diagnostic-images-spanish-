@@ -250,7 +250,7 @@ Sin una optimización de hiperparametros se obtiene un sorprendente 96% de preci
 
 Como observa este tutorial puede ser aplicado a cualquier tipo de imágenes diagnósticas, solo necesita realizar una optimización de hiperparámetros y obtendrá muy buenos resultados. Recuerde que el shape de las imágenes para inception V3 es de 299X299, si necesita escalar puede agregar algunas lineas de código al script prepare_pict.py
 
-Si tiene dudas no dude en escribar a juvenal.yosa@unisimonbolivar.edu.co
+Si tiene dudas no dude en escribar a juvenal.yosa@gmail.com
 
 
 
